@@ -54,11 +54,8 @@ These organizations must maintain strict compliance and security requirements wh
 ## Architecture
 The architecture establishes Azure Active Directory as the central identity governance platform responsible for identity lifecycle management and privileged access protection.
 
-Architecture Diagram
+Enterprise Identity Governance – Architecture Diagram.png
 
-(Insert your Architecture Diagram here)
-
-[ Architecture Diagram Placeholder ]
 Key Components
 
 Azure Active Directory (Identity Provider)
@@ -75,11 +72,8 @@ Enterprise Applications
 ## System Design
 The system design defines how identities are governed and how privileged access is controlled across the environment.
 
-System Design Diagram
+Enterprise Identity Governance – System Design Diagram.png
 
-(Insert your System Design Diagram here)
-
-[ System Design Diagram Placeholder ]
 Governance Flow
 
 User requests access to an application or resource.
@@ -98,11 +92,8 @@ This system ensures that access rights are continuously monitored and validated.
 ## Implementation
 This section describes the implementation of identity governance controls within Azure.
 
-Implementation Diagram
+Enterprise Identity Governance – Implementation Diagram
 
-(Insert your Implementation Diagram here)
-
-[ Implementation Diagram Placeholder ]
 Key Implementation Components
 
 Azure AD Identity Governance
